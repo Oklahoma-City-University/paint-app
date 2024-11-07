@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "bobby",
+      "password": "",
+      "role": "admin",
+      "name": "Admin User"
+    },
+    {
+      "id": "2",
+      "email": "kristen",
+      "password": "",
+      "role": "admin",
+      "name": "Kristen Admin"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1730602220708",
+      "title": "Eat pizza",
+      "priority": "Medium",
+      "dueDate": "",
+      "reward": 0,
+      "visibility": "family",
+      "completed": true,
+      "userId": "1",
+      "createdBy": "Admin User",
+      "createdAt": "2024-11-03T02:50:20.708Z"
+    },
+    {
+      "id": "1730602267980",
+      "title": "What the what",
+      "priority": "Medium",
+      "dueDate": "",
+      "reward": 0,
+      "visibility": "private",
+      "completed": false,
+      "userId": "1",
+      "createdBy": "Admin User",
+      "createdAt": "2024-11-03T02:51:07.980Z"
+    },
+    {
+      "id": "1730602283709",
+      "title": "asdf",
+      "priority": "Medium",
+      "dueDate": "",
+      "reward": 0,
+      "visibility": "private",
+      "completed": false,
+      "userId": null,
+      "createdBy": "Test User",
+      "createdAt": "2024-11-03T02:51:23.709Z"
+    },
+    {
+      "id": "1730602469386",
+      "title": "asfsdfww",
+      "priority": "Medium",
+      "dueDate": "",
+      "reward": 0,
+      "visibility": "private",
+      "completed": false,
+      "userId": "2",
+      "createdBy": "Kristen Admin",
+      "createdAt": "2024-11-03T02:54:29.386Z"
+    },
+    {
+      "id": "1730605410675",
+      "title": "Test",
+      "priority": "Medium",
+      "dueDate": "",
+      "reward": 0,
+      "visibility": "family",
+      "completed": false,
+      "userId": "2",
+      "createdBy": "Kristen Admin",
+      "createdAt": "2024-11-03T03:43:30.675Z"
+    }
+  ]
+}
