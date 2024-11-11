@@ -45,7 +45,7 @@ export default function SnakesGame() {
             <span>{score}</span>
           </p>
           <p className="pause-hint">
-            <strong>PAUSE:</strong> Click Anywhere or Press <kbd>esc</kbd>
+            <strong>PAUSE:</strong> Click Anywhere or Press <kbd>esc</kbd>  - (DELETE THIS BEFORE TURNING IN) -> This developer copy and pasted this app. Hope they understand the code...
           </p>
         </>
       )}
